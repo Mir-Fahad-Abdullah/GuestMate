@@ -1,0 +1,15 @@
+		FAHAD'S GUEST HOUSE
+	=================================
+
+Name : Mst Farida Yeasmin
+Room No : 104
+Check In Date : 3-9-2021
+Check Out Date : 3-9-2021
+Total Members : 2
+Phone Number : 01763889867
+
+Total Bill : 14175.00
+Guest must pay this money before check out date.
+
+===>>Your room reservation request has been successfully done<<===
+***Please print this document and bring it with you when you come to stay at the guest house.
